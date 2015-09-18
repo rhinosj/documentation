@@ -13,6 +13,7 @@ sudo apt-get install tightvncserver
 ```
 
 - Next, run TightVNC Server which will prompt you to enter a password and an optional view-only password:
+  (You can change the password at any time using the vncpasswd tool.)
 
 ```
 tightvncserver
